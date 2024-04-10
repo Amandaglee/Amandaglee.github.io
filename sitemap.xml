@@ -5,6 +5,6 @@
             <loc>http://example.org/posts/</loc><lastmod>2024-03-09T22:36:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>http://example.org/</loc><lastmod>2024-03-09T22:36:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>http://example.org/first_post/</loc><lastmod>2024-03-09T21:08:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://example.org/%E6%9C%AC%E5%91%A8%E6%97%A5%E5%BF%97/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/%E6%9C%AC%E5%91%A8%E6%97%A5%E5%BF%97/</loc><lastmod>2024-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://example.org/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://example.org/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
